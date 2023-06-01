@@ -63,11 +63,8 @@ We would like to acknowledge the following individuals and projects for their co
 
 Rapid API for providing the gym exercise data.
 The React community for their excellent documentation and support.
-Contact Information
-For any questions, suggestions, or support, please reach out to us:
 
-Email: your-email@example.com
-Twitter: @your-twitter-handle
+
 
 
 
